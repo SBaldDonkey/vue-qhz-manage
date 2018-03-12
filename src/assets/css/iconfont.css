@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 492109 */
+  src: url('//at.alicdn.com/t/font_492109_uomu5j0jpf7ds4i.eot');
+  src: url('//at.alicdn.com/t/font_492109_uomu5j0jpf7ds4i.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_492109_uomu5j0jpf7ds4i.woff') format('woff'),
+  url('//at.alicdn.com/t/font_492109_uomu5j0jpf7ds4i.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_492109_uomu5j0jpf7ds4i.svg#iconfont') format('svg');
+}
+.iconfont{
+  font-family:"iconfont" !important;
+  font-size: 16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-setting:before{content: '\e64e'} /*设 置*/
+.icon-switch:before{content: '\e627'} /*修改密码*/
+.icon-out:before{content: '\e60b'} /*退出*/
+.icon-headUser:before{content: '\e600'} /*用户*/
+.icon-modify:before{content: '\e7e0'} /*修改资料*/
+
+.icon-home:before{content: '\e602'} /*首页*/
+.icon-trading:before{content: '\e62d'} /*交易管理*/
+.icon-commodit:before{content: '\e601'} /*商品管理*/
+.icon-shareOf:before{content: '\e628'} /*分控管理*/
+.icon-permissions:before{content: '\e612'} /*权限管理*/
+.icon-banner:before{content: '\e75e'} /*banner管理*/

@@ -1,0 +1,3 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>new688-manage</title><link href=../static/css/app.6ae1d60454d875f58c0421e0deaa36d0.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=../static/js/manifest.596ce50f118a465176bd.js></script><script type=text/javascript src=../static/js/vendor.c16ca705d067fcbea007.js></script><script type=text/javascript src=../static/js/app.04da07368cc5e7ae30b8.js></script></body></html>

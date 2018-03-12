@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "msg": "OK",
+  "data": [
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+    {
+      "id": 1,
+      "brand": "小米",
+      "creatTime": 1517293596000,
+      "updateTime": 1517474930000
+    },
+  ]
+}
